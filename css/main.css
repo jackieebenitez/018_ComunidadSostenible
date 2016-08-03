@@ -1,0 +1,101 @@
+li{
+	display:inline-block;
+	margin:20px;
+	color:black;
+	font-size:14px;
+	border-left: 1px solid black;
+	padding-left: 20px;
+}
+#nav{ /*se uso para separar los <li> del menú y que dejaran de ser <li>*/
+	list-style:none;
+	margin-left:250px;
+	margin-top:30px;
+}
+.semilla{ 
+	background-image: url("../img/semilla.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	margin-left:0px;
+	max-width: 100%;
+    height:300px;
+}	
+.logo{
+	height:100px;
+	width:110px;
+	margin-left:200px;
+}
+.gris{
+	background-color: #b2b2b2;
+	margin:0px;
+	height:200px;
+}
+.metodologia{
+	background-image: url("../img/metodo.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	max-width: 100%;
+    height:379px;
+}
+.verde{
+	background-image: url("../img/fondo.jpg");
+	background-repeat: no-repeat;
+	background-size: 103%;
+	margin-right:10px;
+	height:446px;
+	width:590px;
+}
+.verde2{
+	background-color: #4B8A08;
+	margin: 0px;
+}
+.ninos{
+	width: 500px;
+	height: auto;
+	margin-left: 100px;
+}
+.mb-5{
+	margin-bottom: 100px;
+}
+.par{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.mgproyectos{
+	margin-left:100px;
+}
+.iconos{
+	height:20px;
+	width:20px;
+}
+.radius{
+	border-radius: 100%;
+}
+.blogsize{
+	height:200px;
+	width:300px;
+}
+.tiles{
+	background-image: url("../img/fondo2.jpg");
+	background-repeat: repeat;
+	background-size: 100%;
+	max-width: 100%;
+    height:500px;
+}
+.iconos2{
+	height:80px;
+	width:80px;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+.footer1{
+	margin-left:100px;
+}
+.footer2{
+	margin-right: 40px;
+}
+.slider{
+	padding-top:200px;
+}
